@@ -1,0 +1,19 @@
+<div ng-show="load" style="width:100%;text-align: center;padding-top:100px">Please wait...</div>
+<div ng-show="!load" ng-repeat="(key, value) in datas | groupBy: 'game'">
+  <table style="font-size:11px;width:100%;">
+      <h2 style="margin-bottom:2px;margin-top:30px;color:#ad4242;">Round 16 of game {{key}}</h2>
+      <thead>
+        <tr>
+            <th>Schedule</th> 
+            <th>Date</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="data in value">
+          <td>{{data.homeTeamName}} <b style="color:red">vs</b> {{data.awayTeamName}}</td>
+          <td width="70">{{format(data.date)}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,17 @@
+<div ng-show="load" style="width:100%;text-align: center;padding-top:100px">Please wait...</div>
+<table ng-show="!load" style="font-size:11px;width:100%;">
+    <thead>
+        <tr>
+            <th>Matchday</th>
+            <th>Result match</th>             
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="data in datas">
+          <td>{{data.matchday}}</td>
+          <td>{{data.homeTeamName}} <b style="color:blue">{{data.result.goalsHomeTeam}}</b> <b style="color:red">vs</b> <b style="color:blue">{{data.result.goalsAwayTeam}}</b> {{data.awayTeamName}}<br>
+          Datetime : {{format(data.date)}}
+          </td>
+      </tr>
+    </tbody>
+</table>

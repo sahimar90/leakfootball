@@ -1,0 +1,23 @@
+<div ng-show="load" style="width:100%;text-align: center;padding-top:100px">Please wait...</div>
+<table ng-show="!load" style="font-size:11px;width:100%;">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Team</th> 
+            <th>GP</th>
+            <th>GA</th>
+            <th>GD</th>
+            <th>PTS</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="data in datas">
+          <td>{{data.position}}</td>
+          <td>{{data.team_name}}</td>
+          <td>{{data.overall_gp}}</td>
+          <td>{{data.overall_ga}}</td>
+          <td>{{data.gd}}</td>
+          <td>{{data.points}}</td>
+      </tr>
+    </tbody>
+</table>

@@ -1,0 +1,26 @@
+<div ng-show="load" style="width:100%;text-align: center;padding-top:100px">Please wait...</div>
+<div ng-show="!load" ng-repeat="(key, value) in datas | groupBy: 'comp_group'">
+  <table style="font-size:11px;width:100%;">
+      <h3 style="margin-bottom:0px;color:#ad4242;">{{key}}</h3>
+      <thead>
+          <tr>
+              <th>#</th>
+              <th>Team</th> 
+              <th>GP</th>
+              <th>GA</th>
+              <th>GD</th>
+              <th>PTS</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr ng-repeat="data in value">
+            <td width="5%">{{data.position}}</td>
+            <td width="55%">{{data.team_name}}</td>
+            <td width="10%">{{data.overall_gp}}</td>
+            <td width="10%">{{data.overall_ga}}</td>
+            <td width="10%">{{data.gd}}</td>
+            <td width="10%">{{data.points}}</td>
+        </tr>
+      </tbody>
+  </table>
+</div>

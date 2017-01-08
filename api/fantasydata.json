@@ -1,0 +1,1974 @@
+[
+  {
+    "CompetitionId": 1,
+    "AreaId": 68,
+    "AreaName": "England",
+    "Name": "Premier League",
+    "Gender": "Male",
+    "Type": "Club",
+    "Format": "Domestic League",
+    "Seasons": [
+      {
+        "SeasonId": 1,
+        "CompetitionId": 1,
+        "Season": 2016,
+        "Name": "2015/2016",
+        "CompetitionName": "Premier League",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 1,
+            "SeasonId": 1,
+            "Season": 2016,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 38,
+            "CurrentRound": false
+          }
+        ]
+      },
+      {
+        "SeasonId": 20,
+        "CompetitionId": 1,
+        "Season": 2017,
+        "Name": "2016/2017",
+        "CompetitionName": "Premier League",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": true,
+        "Rounds": [
+          {
+            "RoundId": 73,
+            "SeasonId": 20,
+            "Season": 2017,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 18,
+            "CurrentRound": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 2,
+    "AreaId": 80,
+    "AreaName": "Germany",
+    "Name": "Bundesliga",
+    "Gender": "Male",
+    "Type": "Club",
+    "Format": "Domestic League",
+    "Seasons": [
+      {
+        "SeasonId": 2,
+        "CompetitionId": 2,
+        "Season": 2016,
+        "Name": "2015/2016",
+        "CompetitionName": "Bundesliga",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 2,
+            "SeasonId": 2,
+            "Season": 2016,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 34,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 57,
+            "SeasonId": 2,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Relegation/Promotion Playoff",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      },
+      {
+        "SeasonId": 18,
+        "CompetitionId": 2,
+        "Season": 2017,
+        "Name": "2016/2017",
+        "CompetitionName": "Bundesliga",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": true,
+        "Rounds": [
+          {
+            "RoundId": 65,
+            "SeasonId": 18,
+            "Season": 2017,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 16,
+            "CurrentRound": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 3,
+    "AreaId": 7,
+    "AreaName": "Europe",
+    "Name": "UEFA Champions League",
+    "Gender": "Male",
+    "Type": "Club",
+    "Format": "International Cup",
+    "Seasons": [
+      {
+        "SeasonId": 3,
+        "CompetitionId": 3,
+        "Season": 2016,
+        "Name": "2015/2016",
+        "CompetitionName": "UEFA Champions League",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 3,
+            "SeasonId": 3,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "1st Qualifying Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 4,
+            "SeasonId": 3,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "2nd Qualifying Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 5,
+            "SeasonId": 3,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "3rd Qualifying Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 6,
+            "SeasonId": 3,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Play-off Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 7,
+            "SeasonId": 3,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Group Stage",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 6,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 8,
+            "SeasonId": 3,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Round of 16",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 9,
+            "SeasonId": 3,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Quarter-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 10,
+            "SeasonId": 3,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 11,
+            "SeasonId": 3,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      },
+      {
+        "SeasonId": 21,
+        "CompetitionId": 3,
+        "Season": 2017,
+        "Name": "2016/2017",
+        "CompetitionName": "UEFA Champions League",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": true,
+        "Rounds": [
+          {
+            "RoundId": 74,
+            "SeasonId": 21,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "1st Qualifying Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 75,
+            "SeasonId": 21,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "2nd Qualifying Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 76,
+            "SeasonId": 21,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "3rd Qualifying Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 77,
+            "SeasonId": 21,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Play-off Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 78,
+            "SeasonId": 21,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Group Stage",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 6,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 79,
+            "SeasonId": 21,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Round of 16",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": true
+          },
+          {
+            "RoundId": 80,
+            "SeasonId": 21,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Quarter-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 81,
+            "SeasonId": 21,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 82,
+            "SeasonId": 21,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 4,
+    "AreaId": 176,
+    "AreaName": "Spain",
+    "Name": "Primera Division",
+    "Gender": "Male",
+    "Type": "Club",
+    "Format": "Domestic League",
+    "Seasons": [
+      {
+        "SeasonId": 4,
+        "CompetitionId": 4,
+        "Season": 2016,
+        "Name": "2015/2016",
+        "CompetitionName": "Primera Division",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 12,
+            "SeasonId": 4,
+            "Season": 2016,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 38,
+            "CurrentRound": false
+          }
+        ]
+      },
+      {
+        "SeasonId": 28,
+        "CompetitionId": 4,
+        "Season": 2017,
+        "Name": "2016/2017",
+        "CompetitionName": "Primera Division",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": true,
+        "Rounds": [
+          {
+            "RoundId": 113,
+            "SeasonId": 28,
+            "Season": 2017,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 16,
+            "CurrentRound": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 5,
+    "AreaId": 16,
+    "AreaName": "Argentina",
+    "Name": "Primera Division",
+    "Gender": "Male",
+    "Type": "Club",
+    "Format": "Domestic League",
+    "Seasons": [
+      {
+        "SeasonId": 5,
+        "CompetitionId": 5,
+        "Season": 2016,
+        "Name": "2016",
+        "CompetitionName": "Primera Division",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 13,
+            "SeasonId": 5,
+            "Season": 2016,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 16,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 71,
+            "SeasonId": 5,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Copa Libertadores Playoff",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 72,
+            "SeasonId": 5,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Championship Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      },
+      {
+        "SeasonId": 30,
+        "CompetitionId": 5,
+        "Season": 2017,
+        "Name": "2016/2017",
+        "CompetitionName": "Primera Division",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": true,
+        "Rounds": [
+          {
+            "RoundId": 115,
+            "SeasonId": 30,
+            "Season": 2017,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 15,
+            "CurrentRound": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 6,
+    "AreaId": 100,
+    "AreaName": "Italy",
+    "Name": "Serie A",
+    "Gender": "Male",
+    "Type": "Club",
+    "Format": "Domestic League",
+    "Seasons": [
+      {
+        "SeasonId": 6,
+        "CompetitionId": 6,
+        "Season": 2016,
+        "Name": "2015/2016",
+        "CompetitionName": "Serie A",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 14,
+            "SeasonId": 6,
+            "Season": 2016,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 38,
+            "CurrentRound": false
+          }
+        ]
+      },
+      {
+        "SeasonId": 29,
+        "CompetitionId": 6,
+        "Season": 2017,
+        "Name": "2016/2017",
+        "CompetitionName": "Serie A",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": true,
+        "Rounds": [
+          {
+            "RoundId": 114,
+            "SeasonId": 29,
+            "Season": 2017,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 18,
+            "CurrentRound": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 7,
+    "AreaId": 138,
+    "AreaName": "Netherlands",
+    "Name": "Eredivisie",
+    "Gender": "Male",
+    "Type": "Club",
+    "Format": "Domestic League",
+    "Seasons": [
+      {
+        "SeasonId": 7,
+        "CompetitionId": 7,
+        "Season": 2016,
+        "Name": "2015/2016",
+        "CompetitionName": "Eredivisie",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 15,
+            "SeasonId": 7,
+            "Season": 2016,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 34,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 31,
+            "SeasonId": 7,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Relegation/Promotion Playoff - Round 1",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 32,
+            "SeasonId": 7,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Relegation/Promotion Playoff - Round 2",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 33,
+            "SeasonId": 7,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Relegation/Promotion Playoff - Round 3",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 34,
+            "SeasonId": 7,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Europa League Playoff - Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 54,
+            "SeasonId": 7,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Europa League Playoff - Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      },
+      {
+        "SeasonId": 25,
+        "CompetitionId": 7,
+        "Season": 2017,
+        "Name": "2016/2017",
+        "CompetitionName": "Eredivisie",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": true,
+        "Rounds": [
+          {
+            "RoundId": 101,
+            "SeasonId": 25,
+            "Season": 2017,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 17,
+            "CurrentRound": true
+          },
+          {
+            "RoundId": 102,
+            "SeasonId": 25,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Europa League Playoff - Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 103,
+            "SeasonId": 25,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Europa League Playoff - Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 8,
+    "AreaId": 203,
+    "AreaName": "United States",
+    "Name": "MLS",
+    "Gender": "Male",
+    "Type": "Club",
+    "Format": "Domestic League",
+    "Seasons": [
+      {
+        "SeasonId": 8,
+        "CompetitionId": 8,
+        "Season": 2016,
+        "Name": "2016",
+        "CompetitionName": "MLS",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 16,
+            "SeasonId": 8,
+            "Season": 2016,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 17,
+            "SeasonId": 8,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Wild Card Playoffs",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 18,
+            "SeasonId": 8,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Conference Semi Finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 19,
+            "SeasonId": 8,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Conference Finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 20,
+            "SeasonId": 8,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "MLS Cup",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 9,
+    "AreaId": 7,
+    "AreaName": "Europe",
+    "Name": "UEFA Europa League",
+    "Gender": "Male",
+    "Type": "Club",
+    "Format": "International Cup",
+    "Seasons": [
+      {
+        "SeasonId": 9,
+        "CompetitionId": 9,
+        "Season": 2016,
+        "Name": "2015/2016",
+        "CompetitionName": "UEFA Europa League",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 21,
+            "SeasonId": 9,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "1st Qualifying Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 22,
+            "SeasonId": 9,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "2nd Qualifying Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 23,
+            "SeasonId": 9,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "3rd Qualifying Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 24,
+            "SeasonId": 9,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Play-off Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 25,
+            "SeasonId": 9,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Group Stage",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 6,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 26,
+            "SeasonId": 9,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Round of 32",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 27,
+            "SeasonId": 9,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Round of 16",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 28,
+            "SeasonId": 9,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Quarter-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 29,
+            "SeasonId": 9,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 30,
+            "SeasonId": 9,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      },
+      {
+        "SeasonId": 22,
+        "CompetitionId": 9,
+        "Season": 2017,
+        "Name": "2016/2017",
+        "CompetitionName": "UEFA Europa League",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": true,
+        "Rounds": [
+          {
+            "RoundId": 83,
+            "SeasonId": 22,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "1st Qualifying Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 84,
+            "SeasonId": 22,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "2nd Qualifying Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 85,
+            "SeasonId": 22,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "3rd Qualifying Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 86,
+            "SeasonId": 22,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Play-off Round",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 87,
+            "SeasonId": 22,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Group Stage",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 6,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 88,
+            "SeasonId": 22,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Round of 32",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": true
+          },
+          {
+            "RoundId": 89,
+            "SeasonId": 22,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Round of 16",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 90,
+            "SeasonId": 22,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Quarter-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 91,
+            "SeasonId": 22,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 92,
+            "SeasonId": 22,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 10,
+    "AreaId": 5,
+    "AreaName": "South America",
+    "Name": "Copa America",
+    "Gender": "Male",
+    "Type": "International",
+    "Format": "International Cup",
+    "Seasons": [
+      {
+        "SeasonId": 10,
+        "CompetitionId": 10,
+        "Season": 2016,
+        "Name": "2016 USA",
+        "CompetitionName": "Copa America",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 35,
+            "SeasonId": 10,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Group Stage",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 3,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 36,
+            "SeasonId": 10,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Quarter-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 37,
+            "SeasonId": 10,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 38,
+            "SeasonId": 10,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "3rd Place",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 39,
+            "SeasonId": 10,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      },
+      {
+        "SeasonId": 11,
+        "CompetitionId": 10,
+        "Season": 2015,
+        "Name": "2015 Chile",
+        "CompetitionName": "Copa America",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 40,
+            "SeasonId": 11,
+            "Season": 2015,
+            "SeasonType": 3,
+            "Name": "Group Stage",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 3,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 41,
+            "SeasonId": 11,
+            "Season": 2015,
+            "SeasonType": 3,
+            "Name": "Quarter-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 42,
+            "SeasonId": 11,
+            "Season": 2015,
+            "SeasonType": 3,
+            "Name": "Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 43,
+            "SeasonId": 11,
+            "Season": 2015,
+            "SeasonType": 3,
+            "Name": "3rd Place",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 44,
+            "SeasonId": 11,
+            "Season": 2015,
+            "SeasonType": 3,
+            "Name": "Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 11,
+    "AreaId": 3,
+    "AreaName": "Africa",
+    "Name": "Africa Cup of Nations",
+    "Gender": "Male",
+    "Type": "International",
+    "Format": "International Cup",
+    "Seasons": [
+      {
+        "SeasonId": 31,
+        "CompetitionId": 11,
+        "Season": 2017,
+        "Name": "2017 Gabon",
+        "CompetitionName": "Africa Cup of Nations",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 116,
+            "SeasonId": 31,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Group Stage",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 1,
+            "CurrentRound": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 12,
+    "AreaId": 129,
+    "AreaName": "Mexico",
+    "Name": "Liga MX",
+    "Gender": "Male",
+    "Type": "Club",
+    "Format": "Domestic League",
+    "Seasons": [
+      {
+        "SeasonId": 12,
+        "CompetitionId": 12,
+        "Season": 2016,
+        "Name": "2015/2016",
+        "CompetitionName": "Liga MX",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 45,
+            "SeasonId": 12,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Apertura",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 17,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 46,
+            "SeasonId": 12,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Apertura - Quarter-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 47,
+            "SeasonId": 12,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Apertura - Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 48,
+            "SeasonId": 12,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Apertura - Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 49,
+            "SeasonId": 12,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Clausura",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 17,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 50,
+            "SeasonId": 12,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Clausura - Quarter-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 51,
+            "SeasonId": 12,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Clausura - Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 52,
+            "SeasonId": 12,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Clausura - Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      },
+      {
+        "SeasonId": 27,
+        "CompetitionId": 12,
+        "Season": 2017,
+        "Name": "2016/2017",
+        "CompetitionName": "Liga MX",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": true,
+        "Rounds": [
+          {
+            "RoundId": 105,
+            "SeasonId": 27,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Apertura",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 17,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 106,
+            "SeasonId": 27,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Apertura - Quarter-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 107,
+            "SeasonId": 27,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Apertura - Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 108,
+            "SeasonId": 27,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Apertura - Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 109,
+            "SeasonId": 27,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Clausura",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 1,
+            "CurrentRound": true
+          },
+          {
+            "RoundId": 110,
+            "SeasonId": 27,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Clausura - Quarter-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 111,
+            "SeasonId": 27,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Clausura - Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 112,
+            "SeasonId": 27,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Clausura - Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 13,
+    "AreaId": 76,
+    "AreaName": "France",
+    "Name": "Ligue 1",
+    "Gender": "Male",
+    "Type": "Club",
+    "Format": "Domestic League",
+    "Seasons": [
+      {
+        "SeasonId": 13,
+        "CompetitionId": 13,
+        "Season": 2016,
+        "Name": "2015/2016",
+        "CompetitionName": "Ligue 1",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 53,
+            "SeasonId": 13,
+            "Season": 2016,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 38,
+            "CurrentRound": false
+          }
+        ]
+      },
+      {
+        "SeasonId": 16,
+        "CompetitionId": 13,
+        "Season": 2017,
+        "Name": "2016/2017",
+        "CompetitionName": "Ligue 1",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": true,
+        "Rounds": [
+          {
+            "RoundId": 58,
+            "SeasonId": 16,
+            "Season": 2017,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 19,
+            "CurrentRound": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 14,
+    "AreaId": 160,
+    "AreaName": "Russia",
+    "Name": "RFPL",
+    "Gender": "Male",
+    "Type": "Club",
+    "Format": "Domestic League",
+    "Seasons": [
+      {
+        "SeasonId": 14,
+        "CompetitionId": 14,
+        "Season": 2016,
+        "Name": "2015/2016",
+        "CompetitionName": "RFPL",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 55,
+            "SeasonId": 14,
+            "Season": 2016,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 30,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 64,
+            "SeasonId": 14,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Relegation/Promotion Playoff",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      },
+      {
+        "SeasonId": 26,
+        "CompetitionId": 14,
+        "Season": 2017,
+        "Name": "2016/2017",
+        "CompetitionName": "RFPL",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": true,
+        "Rounds": [
+          {
+            "RoundId": 104,
+            "SeasonId": 26,
+            "Season": 2017,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 17,
+            "CurrentRound": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 15,
+    "AreaId": 35,
+    "AreaName": "Brazil",
+    "Name": "Série A",
+    "Gender": "Male",
+    "Type": "Club",
+    "Format": "Domestic League",
+    "Seasons": [
+      {
+        "SeasonId": 15,
+        "CompetitionId": 15,
+        "Season": 2016,
+        "Name": "2016",
+        "CompetitionName": "Série A",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 56,
+            "SeasonId": 15,
+            "Season": 2016,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 38,
+            "CurrentRound": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 16,
+    "AreaId": 7,
+    "AreaName": "Europe",
+    "Name": "European Championship",
+    "Gender": "Male",
+    "Type": "International",
+    "Format": "International Cup",
+    "Seasons": [
+      {
+        "SeasonId": 17,
+        "CompetitionId": 16,
+        "Season": 2016,
+        "Name": "2016 France",
+        "CompetitionName": "European Championship",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 59,
+            "SeasonId": 17,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Group Stage",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 3,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 60,
+            "SeasonId": 17,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Round of 16",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 61,
+            "SeasonId": 17,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Quarter-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 62,
+            "SeasonId": 17,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 63,
+            "SeasonId": 17,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 17,
+    "AreaId": 7,
+    "AreaName": "Europe",
+    "Name": "UEFA Euro Qualification",
+    "Gender": "Male",
+    "Type": "International",
+    "Format": "International Cup",
+    "Seasons": []
+  },
+  {
+    "CompetitionId": 18,
+    "AreaId": 4,
+    "AreaName": "N/C America",
+    "Name": "CONCACAF Gold Cup",
+    "Gender": "Male",
+    "Type": "International",
+    "Format": "International Cup",
+    "Seasons": [
+      {
+        "SeasonId": 19,
+        "CompetitionId": 18,
+        "Season": 2015,
+        "Name": "2015",
+        "CompetitionName": "CONCACAF Gold Cup",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 66,
+            "SeasonId": 19,
+            "Season": 2015,
+            "SeasonType": 3,
+            "Name": "Group Stage",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 3,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 67,
+            "SeasonId": 19,
+            "Season": 2015,
+            "SeasonType": 3,
+            "Name": "Quarter-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 68,
+            "SeasonId": 19,
+            "Season": 2015,
+            "SeasonType": 3,
+            "Name": "Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 69,
+            "SeasonId": 19,
+            "Season": 2015,
+            "SeasonType": 3,
+            "Name": "3rd Place",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 70,
+            "SeasonId": 19,
+            "Season": 2015,
+            "SeasonType": 3,
+            "Name": "Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CompetitionId": 19,
+    "AreaId": 19,
+    "AreaName": "Australia",
+    "Name": "A League",
+    "Gender": "Male",
+    "Type": "Club",
+    "Format": "Domestic League",
+    "Seasons": [
+      {
+        "SeasonId": 23,
+        "CompetitionId": 19,
+        "Season": 2017,
+        "Name": "2016/2017",
+        "CompetitionName": "A League",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": true,
+        "Rounds": [
+          {
+            "RoundId": 93,
+            "SeasonId": 23,
+            "Season": 2017,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 12,
+            "CurrentRound": true
+          },
+          {
+            "RoundId": 94,
+            "SeasonId": 23,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Elimination Finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 95,
+            "SeasonId": 23,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 96,
+            "SeasonId": 23,
+            "Season": 2017,
+            "SeasonType": 3,
+            "Name": "Grand Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      },
+      {
+        "SeasonId": 24,
+        "CompetitionId": 19,
+        "Season": 2016,
+        "Name": "2015/2016",
+        "CompetitionName": "A League",
+        "StartDate": "Scrambled",
+        "EndDate": "Scrambled",
+        "CurrentSeason": false,
+        "Rounds": [
+          {
+            "RoundId": 97,
+            "SeasonId": 24,
+            "Season": 2016,
+            "SeasonType": 1,
+            "Name": "Regular Season",
+            "Type": "Table",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": 27,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 98,
+            "SeasonId": 24,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Elimination Finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 99,
+            "SeasonId": 24,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Semi-finals",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          },
+          {
+            "RoundId": 100,
+            "SeasonId": 24,
+            "Season": 2016,
+            "SeasonType": 3,
+            "Name": "Grand Final",
+            "Type": "Cup",
+            "StartDate": "Scrambled",
+            "EndDate": "Scrambled",
+            "CurrentWeek": null,
+            "CurrentRound": false
+          }
+        ]
+      }
+    ]
+  }
+]
