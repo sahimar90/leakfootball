@@ -1,1 +1,211 @@
-[]
+[
+	{
+		"date": "2017-02-14T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":1,
+		"homeTeamName": "Benfica",
+		"awayTeamName": "B. Dortmund",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-02-14T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":1,
+		"homeTeamName": "PSG",
+		"awayTeamName": "Barcelona",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-02-15T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":1,
+		"homeTeamName": "Bayern munich",
+		"awayTeamName": "Arsenal",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-02-15T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":1,
+		"homeTeamName": "Real madrid",
+		"awayTeamName": "Napoli",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-02-21T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":1,
+		"homeTeamName": "Bayern Leverkusen",
+		"awayTeamName": "Atl. Madrid",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-02-14T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":1,
+		"homeTeamName": "Man. City",
+		"awayTeamName": "AS. Monaco",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-02-22T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":1,
+		"homeTeamName": "FC Porto",
+		"awayTeamName": "Juventus",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-02-22T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":1,
+		"homeTeamName": "Sevilla",
+		"awayTeamName": "Leicester City",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-03-07T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":2,
+		"homeTeamName": "Arsenal",
+		"awayTeamName": "Bayern Munich",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-03-07T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":2,
+		"homeTeamName": "Napoli",
+		"awayTeamName": "Real madrid",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-03-08T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":2,
+		"homeTeamName": "Barcelona",
+		"awayTeamName": "PSG",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-03-08T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":2,
+		"homeTeamName": "B. Dortmund",
+		"awayTeamName": "Benfica",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-03-14T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":2,
+		"homeTeamName": "Juventus",
+		"awayTeamName": "FC Porto",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-03-14T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":2,
+		"homeTeamName": "Leicester City",
+		"awayTeamName": "Sevilla",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-03-15T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":2,
+		"homeTeamName": "Atl. Madrid",
+		"awayTeamName": "Bayern Leverkusen",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	},
+	{
+		"date": "2017-03-15T19:45:00Z",
+		"status": "SCHEDULED",
+		"matchday": 16,
+		"game":2,
+		"homeTeamName": "AS. Monaco",
+		"awayTeamName": "Man. City",
+		"result": {
+			"goalsHomeTeam": null,
+			"goalsAwayTeam": null
+			
+		}
+	}
+
+]
